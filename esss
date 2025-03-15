@@ -1,0 +1,3 @@
+getgev().desync = 99999999999
+
+game.Lightning.Brightness = desync
